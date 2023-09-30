@@ -7,7 +7,7 @@ Jobs = [
         "id":'1',
         "title":'Data Analyst',
         "location":'Roorkee, Uttarakhand',
-        "Salary":'1,00,000'
+        "Salary":'10,00,000'
     },
     {
         "id":'2',
